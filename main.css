@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Fahkwang|Poppins');
+body {
+  background: url("https://upload.wikimedia.org/wikipedia/commons/6/66/Stamford_Skyline.jpg");
+  /* height: 100%; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  margin: 0;
+  text-align: center;
+  /* margin: 50px auto; */
+  font-family: 'Poppins', sans-serif;
+}
+img {
+  display: block;
+  width: 25%;
+  padding: 10vw;
+  padding-bottom: 1vw;
+  margin: auto;
+}
+
+html {
+  background: #4677AB;
+}
+
+form {
+  padding: 5vw;
+}
+
+button {
+  padding: 10px;
+  background: #84DAE8;
+}
+
+h3 {
+  color: #F28F42;
+}
+input[type="text"] {
+  padding: 10px;
+}
